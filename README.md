@@ -4,6 +4,23 @@
 > Welcome to the world of Javascript. 
 An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and shiny resources about Javascript Development.
 
+[JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks) are an essential part of modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications.
+
+## Why do we use Frameworks?
+Developing software is a complex process. It necessitates a plethora of tasks, including coding, designing, and testing. For only the coding part, programmers had to take care of the syntax, declarations, garbage collection, statements, exceptions, and more.
+
+As a programmer, you don’t need to start from scratch when you have tools designed to help you with your projects. *[Frameworks](https://hackr.io/blog/what-is-frameworks) are software that are developed and used by developers to build applications.*
+
+## Advantages of using a software framework:
+- Assists in establishing better programming practices and fitting use of design patterns
+- Code is more secure
+- Duplicate and redundant code can be avoided
+- Helps consistent developing code with fewer bugs
+- Makes it easier to work on sophisticated technologies
+- One could create their software framework or contribute to open-source frameworks. Hence, there is a continuous improvement in the functionality
+- Several code segments and functionalities are pre-built and pre-tested. This makes applications more reliable
+- Testing and debugging the code is a lot easier and can be done even by developers who do not own the code
+- The time required to develop an application is reduced significantly
 
 ## Table of Contents
 
