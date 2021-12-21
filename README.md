@@ -13,7 +13,7 @@ Developing software is a complex process. It necessitates a plethora of tasks, i
 
 As a programmer, you don’t need to start from scratch when you have tools designed to help you with your projects. *[Frameworks](https://hackr.io/blog/what-is-frameworks) are software that are developed and used by developers to build applications.*
 
-![frameworks]()
+![frameworks](https://github.com/veilair/javascript-development/blob/main/img/frameworks.png)
 
 ## Advantages of using a software framework:
 - Assists in establishing better programming practices and fitting use of design patterns
