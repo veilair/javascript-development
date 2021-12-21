@@ -6,6 +6,8 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
 [JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks) are an essential part of modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications.
 
+![javascript-frameworks](https://github.com/veilair/javascript-development/blob/main/img/java-script-frameworks.png)
+
 ## Why do we use Frameworks?
 Developing software is a complex process. It necessitates a plethora of tasks, including coding, designing, and testing. For only the coding part, programmers had to take care of the syntax, declarations, garbage collection, statements, exceptions, and more.
 
