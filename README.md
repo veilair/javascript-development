@@ -2,7 +2,7 @@
 
 
 > Welcome to the world of Javascript. 
-An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and resources about Javascript Development.
+An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and shiny resources about Javascript Development.
 
 
 ## Table of Contents
