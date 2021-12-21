@@ -589,6 +589,12 @@ Put the compiled JS files into HTML.
 - [React Primer](https://github.com/BinaryMuse/react-primer), by Binary Muse
 - [jQuery versus React.js thinking](http://blog.zigomir.com/react.js/jquery/2015/01/11/jquery-versus-react-thinking.html), by zigomir
 
-## License
 
-BSD licensed
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#software-development)
