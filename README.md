@@ -1,7 +1,7 @@
 # Javascript Frameworks Development
 
 
-> Welcome to the world of Javascript. 
+> Welcome to the world of Javascript Frameworks. 
 An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and shiny resources about Javascript Development.
 
 [JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks) are an essential part of modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications.
