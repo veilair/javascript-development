@@ -8,14 +8,14 @@ An ongoing curated list of frameworks, books, articles, talks, screencasts, reco
 
 ![javascript-frameworks](https://github.com/veilair/javascript-development/blob/main/img/java-script-frameworks.png)
 
-## Why do we use Frameworks?
+## `Why do we use Frameworks?`
 Developing software is a complex process. It necessitates a plethora of tasks, including coding, designing, and testing. For only the coding part, programmers had to take care of the syntax, declarations, garbage collection, statements, exceptions, and more.
 
 As a programmer, you don’t need to start from scratch when you have tools designed to help you with your projects. *[Frameworks](https://hackr.io/blog/what-is-frameworks) are software that are developed and used by developers to build applications.*
 
 ![frameworks](https://github.com/veilair/javascript-development/blob/main/img/frameworks.png)
 
-## Advantages of using a software framework:
+## `Advantages of using a software framework:`
 - Assists in establishing better programming practices and fitting use of design patterns
 - Code is more secure
 - Duplicate and redundant code can be avoided
@@ -26,7 +26,7 @@ As a programmer, you don’t need to start from scratch when you have tools desi
 - Testing and debugging the code is a lot easier and can be done even by developers who do not own the code
 - The time required to develop an application is reduced significantly
 
-## Table of Contents
+## `Table of Contents`
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
@@ -106,7 +106,7 @@ As a programmer, you don’t need to start from scratch when you have tools desi
 ----
 
 
-## Package Managers
+## `Package Managers`
 *Host the JavaScript libraries and provide tools for fetching and packaging them.*
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
@@ -122,11 +122,11 @@ As a programmer, you don’t need to start from scratch when you have tools desi
 * [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
 
 
-## Component Management
+## `Component Management`
 
 * [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
-## Loaders
+## `Loaders`
 *Module or loading system for JavaScript.*
 
 * [RequireJS](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
@@ -142,7 +142,7 @@ As a programmer, you don’t need to start from scratch when you have tools desi
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 
-## Bundlers
+## `Bundlers`
 
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
